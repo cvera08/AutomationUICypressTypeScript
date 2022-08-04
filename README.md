@@ -51,7 +51,7 @@ brew install node
 ```
 ___
 
-## [![](https://i.ibb.co/2kHmnLX/image.png)]()To run this project:
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#to-run-this-project)To run this project:
 Open your console/terminal and run this: 
 ```sh
 cd </your/desired/project/path/>
@@ -67,7 +67,7 @@ cd AutomationUICypressTypeScript
 npm i
 ```
 
-## [![](https://i.ibb.co/2kHmnLX/image.png)]()Run tests in UI/GUI mode:
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#run-tests-in-uigui-mode)Run tests in UI/GUI mode:
 ```sh
 npx cypress open
 ```
@@ -82,7 +82,7 @@ You need to be sure you are in the base project folder (AutomationUICypressTypeS
 
 If it still does not work, please restart all the programs, even your computer and start over again
 
-## [![](https://i.ibb.co/2kHmnLX/image.png)]()Run tests in headless mode (with video output to see the recording):
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#run-tests-in-headless-mode-with-video-output-to-see-the-recording)Run tests in headless mode (with video output to see the recording):
 ```sh
 cd </your/project/path>/AutomationUICypressTypeScript
 npx cypress run
@@ -92,7 +92,7 @@ You will get something like this:
 ![alt text](https://i.ibb.co/Nm0DjMH/Get-Started-Automation-UICypress-Type-Script.png)
 
 
-## [![](https://i.ibb.co/2kHmnLX/image.png)]()Different ways to use Cypress:
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#different-ways-to-use-cypress)Different ways to use Cypress:
 make sure you are on your project path before running the following commands
 ```sh
 cd </your/project/path/>AutomationUICypressTypeScript
@@ -116,7 +116,7 @@ yarn run cypress open
 
 ___
 
-## [![](https://i.ibb.co/2kHmnLX/image.png)](#MIT)MIT licence:
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#mit-licence)MIT licence:
 
 Copyright (c) 2022 Carlos Vera
 
