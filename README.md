@@ -68,6 +68,11 @@ npm i
 ```
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#run-tests-in-uigui-mode)Run tests in UI/GUI mode:
+By using your console/terminal run this: 
+```sh
+npm start
+```
+Open a **NEW tab** and run this:
 ```sh
 npx cypress open
 ```
