@@ -78,7 +78,7 @@ cd </your/desired/project/path/>/AutomationUICypressTypeScript
 npx cypress open
 ```
 
-Now you are able to run the test/s by clicking on any .spec.js file  
+Now you are able to run the test/s by clicking on any .ts file  
 Make sure you have selected your desired browser before to run  
 Once you are done with the execution, you can enter ctrl+c in your terminal or close the browser runner and cypress window
 
@@ -95,7 +95,7 @@ npx cypress run
 ```
 You will get something like this:  
 <br/>
-![alt text](https://i.ibb.co/Nm0DjMH/Get-Started-Automation-UICypress-Type-Script.png)
+![alt text](https://i.ibb.co/BCykShy/zsh.png)
 
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#different-ways-to-use-cypress)Different ways to use Cypress:
