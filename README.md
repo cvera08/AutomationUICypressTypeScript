@@ -1,4 +1,4 @@
-# AutomationUICypressTypeScriptTypeScript
+# AutomationUICypressTypeScript
 
 Front-end base automation project using: [Cypress](https://www.cypress.io/) - [TypeScript](https://www.typescriptlang.org/)
 
@@ -72,8 +72,9 @@ By using your console/terminal run this:
 ```sh
 npm start
 ```
-Open a **NEW tab** and run this:
+Open a **NEW tab**, make sure you are in the right path, and run this:
 ```sh
+cd </your/desired/project/path/>/AutomationUICypressTypeScript
 npx cypress open
 ```
 
